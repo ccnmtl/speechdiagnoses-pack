@@ -1,0 +1,58 @@
+[
+{
+    "content": "<p>Articulation and phonology. May be developmental but may also be due to: </p>\r\n<ul>\r\n<li>Reduced strength in the articulators (tongue, lips, jaw, palate, teeth)</li>\r\n<li>Reduced coordination</li>\r\n<li>Structural anomalies (short frenulum, cleft lip/palate)</li>\r\n</ul>\r\n\r\n<p><strong>* SLPs can provide behavioral therapy to elicit age appropriate speech production.</strong></p>",
+    "label_name": "Role: Speech Sound Disorders",
+    "map_area_shape": "circle",
+    "coordinates": "51,51,51",
+    "label": "pinkbubble",
+    "id": 9
+},
+{
+    "content": "<p>Aberrant and exaggerated anterior lingual movement during speech or swallowing (tongue thrust). This effects sounds and swallow ability.</p>\r\n\r\n<p><strong>* SLPs can provide behavioral therapies which may reduce tongue thrust and its impact on dentition.</strong></p>\r\n",
+    "label_name": "Role: Orofacial Myofunctional Disorders",
+    "map_area_shape": "circle",
+    "coordinates": "170,64,51",
+    "label": "bluebubble",
+    "id": 10
+},
+{
+    "content": "<p>A disruption in the way air flows through the oral and nasal cavity:</p>\r\n<ul>\r\n<li><strong>Hypernasality:</strong> too much air (e.g. cleft palate)</li>\r\n<li><strong>Hyponasality:</strong> obstructed airflow secondary to nasal blockage (e.g. hypertrophic adenoids)</li>\r\n</ul>\r\n\r\n<p><strong>* Nasal obstruction can result in obligatory mouth breathing and open mouth posture.</strong></p>",
+    "label_name": "Role: Resonance Disorders",
+    "map_area_shape": "circle",
+    "coordinates": "291,61,51",
+    "label": "orangebubble",
+    "id": 11
+},
+{
+    "content": "<p>Difficulty using and understanding spoken, written, and other symbol systems. The disorder may involve difficulty with:</p>\r\n<ul>\r\n<li>Form: how sounds, parts of words (e.g. \u2013ing), word phrases (e.g. a noun phrase) and sentence types (interrogative) form expressive/receptive language (e.g. syntax, morphology, and phonology)</li>\r\n<li>Content: semantics or meaning of expressive/receptive language</li>\r\n<li>Use: function or pragmatics of expressive/receptive language. Reasons for talking (e.g. to request, to deny), discourse skills (e.g. topic maintenance, turn-taking), and the ability to be flexible</li>\r\n</ul>\r\n\r\n<p><strong>* Facilitation of age-appropriate language skills can help with interactions and care of the pediatric population.</strong></p>",
+    "label_name": "Role: Language Disorders",
+    "map_area_shape": "circle",
+    "coordinates": "412,51,51",
+    "label": "purplebubble",
+    "id": 12
+},
+{
+    "content": "<p>Includes the following:</p>\r\n<ul>\r\n<li>Difficulties with turn-taking and attention-span</li>\r\n<li>Need for behavioral reinforcement for age-appropriate behaviors related to speech, language and swallow function</li>\r\n<li>Facilitation of age appropriate social skills</li>\r\n</ul>\r\n\r\n<p><strong>* SLPs can help your patients\u2019 in-seat behavior.</p></strong>",
+    "label_name": "Role: Behavior and Social Communication",
+    "map_area_shape": "circle",
+    "coordinates": "105,174,51",
+    "label": "salmonbubble",
+    "id": 13
+},
+{
+    "content": "<p>Difficulty with the oral, pharyngeal or esophageal stages of swallowing.</p>\r\n\r\n<p><strong>* Dental anomalies may cause oral stage dysphagia.</strong></p>",
+    "label_name": "Role: Dysphagia or Feeding and Swallowing Disorders",
+    "map_area_shape": "circle",
+    "coordinates": "364,188,51",
+    "label": "turquoisebubble",
+    "id": 14
+},
+{
+    "content": "<p>Increased or decreased sensitivity to stimuli.</p>\r\n\r\n<p><strong>* SLPs can help desensitize children who have difficulty being touched in the oral cavity. </strong></p>",
+    "label_name": "Role: Sensory Integration Dysfunction Disorders",
+    "map_area_shape": "circle",
+    "coordinates": "238,164,51",
+    "label": "yellowbubble",
+    "id": 15
+}
+]
