@@ -30,23 +30,8 @@ NPM INSTALLATION
 3. Embed the interactive via an iframe.
 
 
-#### Diagnoses
 ```
 <code>
-    <iframe src="<server>/<output_path>/?map=1"></iframe>
-</code>
-```
-
-#### Pediatric Referrals
-```
-<code>
-    <iframe src="<server>/<output_path>/?map=2"></iframe>
-</code>
-```
-
-#### Swallow Assessment
-```
-<code>
-    <iframe src="<server>/<output_path>/?map=3"></iframe>
+    <iframe src="<server>/<output_path>/></iframe>
 </code>
 ```
