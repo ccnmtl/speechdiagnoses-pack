@@ -11,9 +11,12 @@ require('../static/css/common.css');
 require('../static/css/imagemapchart.css');
 
 var jQuery = require('jquery');
-var module = require('./imagemapchart.js');
+var module = require('../node_modules/imagemapchart/src/index.js');
 
 jQuery(document).ready(function() {
     module.ImageMapChartApp.initialize({
+        el: jQuery('.infographic'),
+        template: require('../static/templates/page.html'),
+        items: require('../static/json/items.json')
     });
 });

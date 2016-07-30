@@ -7,7 +7,6 @@ var chai = require('chai');
 var assert = chai.assert;
 
 var jQuery = require('jquery');
-var module = require('../src/imagemapchart.js');
 
 function waitFor(testFx, doneFx, millis) {
     var timeout = millis ? millis : 3000; // Default Max Timout is 10s
@@ -26,14 +25,5 @@ function waitFor(testFx, doneFx, millis) {
     }, 250); //< repeat check every 250ms
 }
 
-describe('ImageMapChartApp', function() {
-    var app;
-
-    before(function() {
-        var elt = jQuery('.infographic');
-        assert.isDefined(elt);
-        jQuery(elt).html('');
-
-        app = module.ImageMapChartApp.initialize();
-    });
+describe('App', function() {
 });

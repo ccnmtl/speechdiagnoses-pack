@@ -2,7 +2,7 @@
 
 var assert = require('chai').assert;
 
-var models = require('../src/models.js');
+//var models = require('../src/models.js');
 
 describe('Models', function() {
 });
