@@ -1,0 +1,32 @@
+<div class="infochart03">
+    <div id="chartcontent">
+        <div id="charttext">
+            <div class="infotext_default textactive">
+                <div class="instructions">
+                   <h2>Click each bubble to learn more about diagnoses treated by a speech-language pathologist.</h2>
+                </div>
+            </div>
+            <% for (var i = 0; i < items.length; i++) { %>
+                <% var item = items[i]; %>
+                <div class="text<%=item.label%>">
+                <%=item.content%>
+            </div>
+            <% } %>
+        </div>
+
+        <div id="chartnav">
+            <img name="imagemap_shim" id="imagemap_shim" usemap="#imageMapArea" src="../img/shim.gif" />
+            <% for (var i = 0; i < items.length; i++) { %>
+                <% var item = items[i]; %>
+                <div id="chart_nav<%=item.label%>" class="nav<%=item.label%>"></div>
+            <% } %>
+        </div>
+    </div>
+
+    <map name="imageMapArea" id="imageMapArea">
+        <% for (var i = 0; i < items.length; i++) { %>
+            <% var item = items[i]; %>
+            <area shape="<%=item.map_area_shape%>" coords="<%=item.coordinates%>" alt="<%=item.label%>">
+        <% } %>
+    </map>
+</div>
