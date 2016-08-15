@@ -28,6 +28,3 @@ publish: build
 
 runserver: build
 	npm run serve
-
-runserver-zarina: build
-	npm run serve-zarina

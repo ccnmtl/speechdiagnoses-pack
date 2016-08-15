@@ -1,6 +1,6 @@
 {
   "name": "speechdiagnoses-pack",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Learn more about diagnoses treated by a speech-language pathologist.",
   "main": "src/index.js",
   "scripts": {
@@ -8,8 +8,7 @@
     "test": "npm run test-unit && npm run test-client",
     "test-unit": "mocha test/model-test.js",
     "test-client": "mocha-phantomjs -R nyan test/view-test.html",
-    "build": "webpack && webpack --config test/test.webpack.config.js",
-    "serve-zarina": "webpack-dev-server --hot --inline --open --port 1314"
+    "build": "webpack && webpack --config test/test.webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -57,7 +56,7 @@
     "bootstrap": "^3.3.6",
     "css-loader": "^0.14.0",
     "file-loader": "^0.8.5",
-    "imagemapchart": "^0.1.0",
+    "imagemapchart": "^0.1.1",
     "jquery": "^2.1.4",
     "json-loader": "^0.5.4",
     "style-loader": "^0.12.0",
