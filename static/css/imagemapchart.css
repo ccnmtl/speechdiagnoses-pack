@@ -1,3 +1,7 @@
+.interactive-container {
+    min-width: 670px;
+}
+
 .infochart03 #chartcontent #charttext .textactive {
     display: block;
 }
@@ -34,7 +38,7 @@
     width: 670px;
     height: 600px;
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     border: 0;
     background: url('../img/infochart03_bg.png') no-repeat 0 0;
 }
