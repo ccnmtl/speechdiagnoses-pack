@@ -3,6 +3,10 @@ header {
     padding: 5px;
 }
 
+.noborder {
+    border: 0;
+}
+
 .interactive-module-title {
     margin: 0;
     padding: 0;
