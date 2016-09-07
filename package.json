@@ -1,6 +1,6 @@
 {
   "name": "speechdiagnoses-pack",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Learn more about diagnoses treated by a speech-language pathologist.",
   "main": "src/index.js",
   "scripts": {
