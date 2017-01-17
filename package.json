@@ -1,6 +1,6 @@
 {
   "name": "speechdiagnoses-pack",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Learn more about diagnoses treated by a speech-language pathologist.",
   "main": "src/index.js",
   "scripts": {
@@ -41,7 +41,7 @@
   "bugs": {
     "url": "https://github.com/ccnmtl/speechdiagnoses-pack/issues"
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "devDependencies": {
     "chai": "^3.5.0",
     "jscs": "^3.0.4",
