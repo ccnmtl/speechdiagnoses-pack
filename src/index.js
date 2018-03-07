@@ -1,7 +1,7 @@
 /* global jQuery: true */
 
-import '../static/index.html';
 import './static.js';
+require('!file-loader?name=[name].[ext]!../static/index.html');
 
 // load and apply css
 import 'bootstrap/dist/css/bootstrap.min.css';
