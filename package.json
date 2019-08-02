@@ -60,7 +60,7 @@
     "phantomjs-prebuilt": "^2.1.14",
     "style-loader": "^0.23.0",
     "underscore-template-loader": "^1.0.0",
-    "webpack": "^4.1.0",
+    "webpack": "^4.39.1",
     "webpack-cli": "~3.3.0",
     "webpack-dev-server": "^3.1.0"
   },
