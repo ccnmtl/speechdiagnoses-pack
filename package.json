@@ -69,6 +69,6 @@
     "bootstrap": "^3.3.7",
     "imagemapchart": "^0.1.1",
     "jquery": "^3.2.1",
-    "underscore": "1.9.1"
+    "underscore": "1.9.2"
   }
 }
