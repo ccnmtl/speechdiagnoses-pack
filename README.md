@@ -1,8 +1,6 @@
 Standalone Interactive Exercise: Speech Diagnoses
 ==========
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/ccnmtl/speechdiagnoses-pack.svg)](https://greenkeeper.io/)
-
 ##### About Multidisciplinary Approaches to Children’s Oral Health (MATCH)
 There are a variety of healing and helping professions that, when partnered with pediatric dentists, hold tremendous potential to improve children’s oral health and welfare.
 
