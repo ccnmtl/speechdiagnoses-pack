@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/ccnmtl/speechdiagnoses-pack/workflows/build-and-test/badge.svg)](https://github.com/ccnmtl/speechdiagnoses-pack/actions)
+
 Standalone Interactive Exercise: Speech Diagnoses
 ==========
 
