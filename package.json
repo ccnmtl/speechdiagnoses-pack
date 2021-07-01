@@ -54,7 +54,7 @@
     "loglevel": "^1.4.1",
     "mocha": "^9.0.0",
     "mocha-chrome": "^2.2.0",
-    "style-loader": "^2.0.0",
+    "style-loader": "^3.0.0",
     "underscore-template-loader": "^1.0.0",
     "webpack": "^5.10.3",
     "webpack-cli": "~4.7.0",
