@@ -31,6 +31,7 @@ jQuery(document).ready(function() {
     module.ImageMapChartApp.initialize({
         el: jQuery('.infographic'),
         template: require('../static/templates/page.html'),
-        items: require('../static/json/items.json')
+        items: require('../static/json/items.json'),
+        background: 'shim.gif'
     });
 });
