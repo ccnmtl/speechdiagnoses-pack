@@ -59,7 +59,7 @@
     "webpack-dev-server": "^4.0.0"
   },
   "dependencies": {
-    "acorn": "8.7.0",
+    "acorn": "8.8.0",
     "backbone": "1.4.0",
     "bootstrap": "^3.3.7",
     "imagemapchart": "^0.1.2",
