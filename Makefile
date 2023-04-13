@@ -1,7 +1,7 @@
 OUTPUT_PATH=dist
 JS_FILES=src test
 
-all: clean test eslint
+all: clean build eslint
 
 include js.mk
 
@@ -13,12 +13,6 @@ build:  $(JS_SENTINAL)
 
 build-test: $(JS_SENTINAL)
 	./node_modules/webpack/bin/webpack.js --config test/test.webpack.config.js --output-path=$(OUTPUT_PATH)
-
-test: build build-test
-	npm test
-
-test-client: build-test
-	npm run test-client
 
 publish: build
 	npm publish --access=public
