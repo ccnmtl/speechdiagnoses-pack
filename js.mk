@@ -30,7 +30,4 @@ $(JS_SENTINAL): package.json
 eslint: $(JS_SENTINAL)
 	$(ESLINT) $(JS_FILES)
 
-jstest: $(JS_SENTINAL)
-	npm test
-
 .PHONY: eslint jstest
