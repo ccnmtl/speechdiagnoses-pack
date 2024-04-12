@@ -50,7 +50,7 @@
     "file-loader": "^6.0.0",
     "loglevel": "^1.4.1",
     "mocha": "^10.0.0",
-    "style-loader": "^3.0.0",
+    "style-loader": "^4.0.0",
     "underscore-template-loader": "^1.0.0",
     "webpack": "^5.10.3",
     "webpack-cli": "~5.1.0",
