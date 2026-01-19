@@ -62,7 +62,7 @@
     "backbone": "1.6.0",
     "bootstrap": "^5.2.3",
     "imagemapchart": "^0.1.2",
-    "jquery": "^3.2.1",
+    "jquery": "^4.0.0",
     "underscore": "~1.13.1"
   }
 }
